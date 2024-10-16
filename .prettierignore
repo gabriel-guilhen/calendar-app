@@ -1,0 +1,8 @@
+# Ignorar diretórios comuns
+node_modules
+.next
+out
+
+# Ignorar arquivos de configuração
+package-lock.json
+yarn.lock
